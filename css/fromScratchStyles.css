@@ -1,0 +1,59 @@
+/* styles.css */
+
+/* 1. Body styles */
+body {
+    background-color: blanchedalmond;
+    font-family: Georgia, serif;
+    color: #333333;
+    margin: 20px;
+}
+
+/* 2. Header div */
+#header {
+    background-color: #1a5276;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+/* 3. Places list div */
+#places {
+    background-color: white;
+    font-family: Georgia, serif;
+    color: #1a5276;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+/* 4. Video div */
+#video {
+    background-color: #1a5276;
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+}
+
+/* 5. Back to top link */
+a {
+    color: #1a5276;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
+
+/* 6. List items */
+li {
+    margin-bottom: 10px;
+    font-size: 1.1em;
+}
+
+/* 7. Images */
+img {
+    display: block;
+    margin: 8px 0 16px 0;
+    border: 3px solid #1a5276;
+    border-radius: 4px;
+}
